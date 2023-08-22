@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "If you are the recipient of the link on the card with 4 My Love cats, please click on the gift box below to read the birthday card." //Lời mở đầu cho bức thư
-const mainContentLetter = "Happy birthday to you.\nThank you for being a special person in my heart.\nAnd I hope you will always be happy and happy every day, not just your birthday. May all your wishes come true. Wishing the special person in my heart a very happy birthday.. I hope you will always be happy and happy every day, not just your birthday. May all your wishes come true.." //Nội dung của bức thư
+const mainContentLetter = "Happy birthday to you.\nThank you for being a special person in my heart.\nAnd I hope you will always be happy and happy every day, not just your birthday. May all your wishes come true..." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
